@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @clarissa-rosas
-- 👀 I’m interested in becoming a developer
-- 🌱 I’m currently learning java, javascript, html and css
-- 💞️ I’m looking to collaborate on new projects and learn more
+- 👀 I’m a developer at Dataprev
 - 📫 How to reach me: https://www.instagram.com/cla.rosas.dias/
 
 <!---
