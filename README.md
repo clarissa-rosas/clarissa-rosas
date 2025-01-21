@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @clarissa-rosas
+- 👋 Hi, I’m Clarissa Rosas Dias
 - 👀 I’m a developer at Dataprev
 - 📫 How to reach me: https://www.instagram.com/cla.rosas.dias/
 
